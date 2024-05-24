@@ -1,7 +1,7 @@
-const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
-const version = "Latest@ v1.0"; 
+const status = "AUTO";
+const botName = "SONGTRIBE PRO MUSIC 💎";
+const Text = "UB05";
+const version = "v1.0"; 
 const startTime = Date.now();
 
 function printWatermark() {
